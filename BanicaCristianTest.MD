@@ -1,4 +1,4 @@
-====== Free Bootstrap Template Corporate, HTML5 and CSS3 ====== 
+=GUSPAMS
 
 Description :       Un template responsive basé sur le framework Bootstrap, avec des rich snippets pour Google, valide html5, formulaire de contact sécurisé, proposé en téléchargement gratuit.
 Twitter:            @gibertpascal
