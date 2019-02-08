@@ -23,7 +23,9 @@ Fontawesome icons
 Fil d’ariane (breadcrumb) présent sur toutes les pages
 Méta author page Google Plus
 
-====== Instructions ======
+====== Instructions ====== 
+
+dasdasdassdasda
 
 Changer chaque titre de page, méta description, les titres et fichiers html des services, les liens et titres dans la section « breadcrumb », le lien de la page Google plus dans les métas. Penser à changer le mail dans la page contact.php.
 
