@@ -12,7 +12,7 @@ Licence CC BY-SA 4.0 : http://creativecommons.org/licenses/by-sa/4.0/
 ====== Caractéristiques du template ======
 
 Un menu responsive
-Un bloc services de trois sections en page d’accueil
+Un bloc services de trois sections en page d’accueilgfdgfdgfd
 Une page index
 Une page à propos
 Une page service 1
