@@ -27,7 +27,7 @@ Méta author page Google Plus
 
 Changer chaque titre de page, méta description, les titres et fichiers html des services, les liens et titres dans la section « breadcrumb », le lien de la page Google plus dans les métas. Penser à changer le mail dans la page contact.php.
 
-====== Crédits ======
+====== Crédits ======fxfdfdsfsdfsdsdfsfdsfdfsdfsd
 
 Font Awesome Icons : http://fontawesome.io
 Exemples Codes Icons: http://fontawesome.io/examples/
