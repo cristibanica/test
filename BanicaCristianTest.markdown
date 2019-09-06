@@ -3,7 +3,7 @@
 Description :       Un template responsive basé sur le framework Bootstrap, avec des rich snippets pour Google, valide html5, formulaire de contact sécurisé, proposé en téléchargement gratuit.
 Twitter:            @gibertpascal  markdown
 Author URL:         http://intelligence-web.com
-Project URL:       http://intelligence-web.com/free-bootstrap-template-corporate/01/06/2014/ - 
+Project URL:       http://iweb.com/free-bootstrap-template-corporate/01/06/2014/ - 
 
 Version Template:   1.0
 Date:               May 2014
